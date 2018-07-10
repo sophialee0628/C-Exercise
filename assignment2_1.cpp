@@ -1,5 +1,6 @@
 // Seung Eun Lee 2018-07-01
-//I used cout & cin
+//Write a program that prompts the user to input the capacity, in gallons, of an automobile fuel tank and the miles per gallon the automobile can be driven. 
+//The program then outputs the number of miles the automobile can be driven without refueling. 
 #include <iostream>
 using namespace std;
 
