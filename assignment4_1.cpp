@@ -1,6 +1,8 @@
 // Seung Eun Lee
 // 2018-07-03
 // output: three numbers in order
+//Write a program that prompts the user to input three numbers. 
+//The program should then output the numbers in ascending order
 #include <iostream>
 
 using namespace std;
