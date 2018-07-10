@@ -1,5 +1,7 @@
 // Seung Eun Lee 2018-07-01
-//I used cin to get input 'times' to calculate hours,minutes,seconds
+//Write a program that prompts the user to input the elapsed time for an event in seconds. 
+//The program then outputs the elapsed time in hours, minutes, and seconds.
+//(For example, if the elapsed time is 8000 seconds, then the output is 2:13:20.)
 
 #include <iostream>
 using namespace std;
