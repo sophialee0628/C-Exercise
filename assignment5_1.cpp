@@ -1,6 +1,11 @@
 // Seung Eun Lee
 // 2018-07-04
 // calculator
+/**
+Write a program that mimics a calculator. The program should take as input two integers and the operation to be performed. It should then output the numbers, the operator, and the result. (For division, if the denominator is zero, output an appropriate message.) Some sample outputs follow:
+3 + 4 = 7
+13 * 5 = 65
+**/
 
 #include <iostream>
 #include <cmath>
