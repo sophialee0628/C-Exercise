@@ -1,5 +1,21 @@
 // Seung Eun Lee
 // 2018-07-09
+/**
+• Suppose that the first number of a sequence is x, in which x is an
+integer. Define a0 = x; an+1 = an
+/2 if an
+is even; an+1 = 3 x an+1 if an
+is odd. Then, there exists an integer k such that ak = 1. Write a program
+that prompts the user to input the value of x. The program output
+the integer k such that ak = 1 and the numbers a0, a1, a2, , . . . , ak.
+(For example, if x = 75, then k = 14, and the numbers a0, a1, a2, . . ., a14,
+respectively, are 75, 226, 113, 340, 170, 85, 256, 128, 64, 32, 16, 8, 4,
+2, 1.) Also enhance your program from by outputting the position of
+the largest number and the largest number of the sequence a0, a1,a2, . . ., ak. 
+(For example, the largest number of the above sequence is
+340, and its position is 3.) Test your program for the following values
+of x: 75, 111, 678, 732, 873, 2048, and 65535.
+**/
 
 #include <iostream>
 #include <cstdlib>
