@@ -1,6 +1,10 @@
 // Seung Eun Lee
 // 2018-07-09
 // calculating PI approximation
+/**
+The value of π can be approximated by using the following series:
+Write a program that reads a value of n from the user and calculate π
+using n terms of the given approximation formula.**/
 
 #include <iostream>
 #include <cstdlib>
